@@ -1,7 +1,5 @@
 # Hi, I'm Sayojya 👋
 
-**Software Engineer | Backend, Full-Stack & AI Applications**
-
 I build APIs, data-driven applications, and reliable backend workflows using Python and JavaScript/TypeScript. My projects span asynchronous processing, analytics dashboards, warehouse systems, and applied AI security.
 
 ### Tech stack
