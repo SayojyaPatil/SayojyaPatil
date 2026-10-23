@@ -5,7 +5,7 @@ I build APIs, data-driven applications, and reliable backend workflows using Pyt
 ### Tech stack
 
 **Languages:** Python · JavaScript/TypeScript · SQL  
-**Backend:** Django REST Framework · FastAPI · PostgreSQL · Redis · Celery  
+**Backend:** Django REST Framework · FastAPI · Flask · PostgreSQL · Redis · Celery  
 **Frontend:** React  
 **Tools & platforms:** Docker · GitHub Actions · AWS · Git
 
