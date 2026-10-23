@@ -15,5 +15,4 @@ I build APIs, data-driven applications, and reliable backend workflows using Pyt
 
 Building maintainable backend services, improving API performance, and developing practical full-stack applications.
 
-**Portfolio:** [sayojyapatil.com](https://sayojyapatil.com)  
-**GitHub:** [@SayojyaPatil](https://github.com/SayojyaPatil)
+**Portfolio:** [sayojyapatil.com](https://sayojyapatil.com)
